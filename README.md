@@ -8,33 +8,33 @@ For Collaboration, Projects, Research, or Anything Tech 😊
 # 💫 About Me:
 
 🔭 I’m currently working on<br><br>
-1️⃣ AI & ML projects solving real-world problems (healthcare, agriculture, student life)<br><br>
-2️⃣ Computer Vision & NLP-based applications<br><br>
-3️⃣ Building 5+ end-to-end, production-style GitHub projects<br><br>
+1️⃣ AI & ML projects solving real-world problems (healthcare, agriculture, student life)<br>
+2️⃣ Computer Vision & NLP-based applications<br>
+3️⃣ Building 5+ end-to-end, production-style GitHub projects<br>
 
-👯 I’m looking to collaborate on<br><br>
-1️⃣ Machine Learning & Deep Learning projects<br><br>
-2️⃣ Open-source work in Bioinformatics, AI & Data Science<br><br>
-3️⃣ Hackathons and research-driven builds<br><br>
+👯 I’m looking to collaborate on<br>
+1️⃣ Machine Learning & Deep Learning projects<br>
+2️⃣ Open-source work in Bioinformatics, AI & Data Science<br>
+3️⃣ Hackathons and research-driven builds<br>
 
-🤝 I’m looking for help with<br><br>
-1️⃣ Advanced ML model optimization & tuning<br><br>
-2️⃣ Research paper writing & publication guidance<br><br>
-3️⃣ Scaling AI projects for real users<br><br>
+🤝 I’m looking for help with<br>
+1️⃣ Advanced ML model optimization & tuning<br>
+2️⃣ Research paper writing & publication guidance<br>
+3️⃣ Scaling AI projects for real users<br>
 
 🌱 I’m currently learning<br><br>
-1️⃣ Generative AI (LLMs, RAG, LangChain)<br><br>
-2️⃣ Advanced Python for ML & backend systems<br><br>
-3️⃣ Bioinformatics + Data Science integration<br><br>
+1️⃣ Generative AI (LLMs, RAG, LangChain)<br>
+2️⃣ Advanced Python for ML & backend systems<br>
+3️⃣ Bioinformatics + Data Science integration<br>
 
 💬 Ask me about<br><br>
-1️⃣ Python, Machine Learning & OpenCV<br><br>
-2️⃣ AI use cases in Bioinformatics<br><br>
-3️⃣ Building ML projects from scratch<br><br>
-4️⃣ Hackathons & student tech growth<br><br>
+1️⃣ Python, Machine Learning & OpenCV<br>
+2️⃣ AI use cases in Bioinformatics<br>
+3️⃣ Building ML projects from scratch<br>
+4️⃣ Hackathons & student tech growth<br>
 
 ⚡ Fun fact<br>
-I don’t build projects for marks — I build them to solve real problems 🚀
+I don’t build projects for marks. I build them to solve real problems 🚀
 
 
 
