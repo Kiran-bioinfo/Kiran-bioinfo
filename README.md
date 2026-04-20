@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Kiran
 
-A passionate Bioinformatics Engineering student || AI & ML Enthusiast || Data Science Learner from India
+Founding Board Member of Xinity || IEEE-EMBS Secretary|| B.Tech Bioinformatics Student || LLM Builder
 
 Email Me 👉 ✉️ bioinformaticsengineering@gmail.com  
 For Collaboration, Projects, Research, or Anything Tech 😊
