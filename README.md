@@ -59,7 +59,7 @@ I don’t build projects for marks. I build them to solve real problems 🚀
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiran-bioinfo&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kiran-bioinfo&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kiran-bioinfo&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Kiran-bioinfo&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
 
 </div>
 
