@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Kiran
 
-Founding Board Member of Xinity || IEEE-EMBS Secretary|| B.Tech Bioinformatics Student || LLM Builder
+IEEE-EMBS Secretary|| B.Tech Bioinformatics Student || LLM Builder
 
 Email Me 👉 ✉️ bioinformaticsengineering@gmail.com  
 For Collaboration, Projects, Research, or Anything Tech 😊
