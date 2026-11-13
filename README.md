@@ -1,79 +1,75 @@
-<div align="center">
+💫 Hi 👋, I'm Kiran
 
-<p><sub>WOW PROFILE · KIRAN-BIOINFO · LIVE</sub></p>
+IEEE-EMBS Secretary|| B.Tech Bioinformatics Student || LLM Builder
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&variant=living-identity&label=Basanagowda%20Patil%20(kiran)&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&variant=living-identity&label=Basanagowda%20Patil%20(kiran)&v=wow-living-identity-1&mode=dark" width="100%" alt="Basanagowda Patil (kiran) animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Bioinformatics Engineer</strong> · Bengaluru </p>
-<p>IEEE-EMBS Secretary|| B.Tech Bioinformatics Student || LLM Builder</p>
-<p><a href="https://github.com/kiran-bioinfo">GitHub</a> &nbsp;·&nbsp; <a href="https://basanagowda-patil-xslm6ky.gamma.site/#card-xyofiu271cbutbx">Website</a></p>
-</div>
+Email Me 👉 ✉️ bioinformaticsengineering@gmail.com  
+For Collaboration, Projects, Research, or Anything Tech 😊
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+# 💫 About Me:
 
-<h2>Identity, with signal</h2>
+🔭 I’m currently working on<br><br>
+1️⃣ AI & ML projects solving real-world problems (healthcare, agriculture, student life)<br>
+2️⃣ Computer Vision & NLP-based applications<br>
+3️⃣ Building 5+ end-to-end, production-style GitHub projects<br>
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>IEEE-EMBS Secretary|| B.Tech Bioinformatics Student || LLM Builder</p><p><strong>Focus:</strong> `CSS` · `TypeScript` · `HTML`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>16</strong> repos<br /><strong>3</strong> stars<br /><strong>39</strong> contributions<br /><strong>4</strong> followers</p></td>
-</tr>
-</table>
+👯 I’m looking to collaborate on<br>
+1️⃣ Machine Learning & Deep Learning projects<br>
+2️⃣ Open-source work in Bioinformatics, AI & Data Science<br>
+3️⃣ Hackathons and research-driven builds<br>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+🤝 I’m looking for help with<br>
+1️⃣ Advanced ML model optimization & tuning<br>
+2️⃣ Research paper writing & publication guidance<br>
+3️⃣ Scaling AI projects for real users<br>
 
-<h2>The tools behind the signal</h2>
+🌱 I’m currently learning<br><br>
+1️⃣ Generative AI (LLMs, RAG, LangChain)<br>
+2️⃣ Advanced Python for ML & backend systems<br>
+3️⃣ Bioinformatics + Data Science integration<br>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Basanagowda Patil (kiran) animated technology stack" />
-</picture>
+💬 Ask me about<br><br>
+1️⃣ Python, Machine Learning & OpenCV<br>
+2️⃣ AI use cases in Bioinformatics<br>
+3️⃣ Building ML projects from scratch<br>
+4️⃣ Hackathons & student tech growth<br>
 
-<p align="center"><sub>CSS · TypeScript · HTML · JavaScript · Python · Roff · Shell · PowerShell · chosen for the work, not the trend</sub></p>
+⚡ Fun fact<br>
+I don’t build projects for marks. I build them to solve real problems 🚀
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>Momentum, made visible</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Basanagowda Patil (kiran) animated GitHub signal" />
-</picture>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basanagowda-patil-917a02315/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bioinformaticsengineering@gmail.com) 
 
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Basanagowda Patil (kiran) contribution energy field" />
-</picture>
-
-<p align="center"><sub>1 day current streak · 15 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<!-- Snake Game Repo View -->
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&website=https%3A%2F%2Fbasanagowda-patil-xslm6ky.gamma.site%2F%23card-xyofiu271cbutbx&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=kiran-bioinfo&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182555699%3Fu%3D7b75b5585a82271e26c146325f64632b67fdb639%26v%3D4&website=https%3A%2F%2Fbasanagowda-patil-xslm6ky.gamma.site%2F%23card-xyofiu271cbutbx&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Basanagowda Patil (kiran) contact links" />
-</picture>
-<p><a href="https://github.com/kiran-bioinfo">GitHub</a> &nbsp;·&nbsp; <a href="https://basanagowda-patil-xslm6ky.gamma.site/#card-xyofiu271cbutbx">Website</a></p>
-<p><sub>Basanagowda Patil (kiran) · Wow Profile generated with <a href="https://www.gitskins.com/readmWhat moves the worke-generator">GitSkins</a></sub></p>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- gitskins:architecture -->
-### How [ai-fluency-prompt-architect](https://github.com/Kiran-bioinfo/ai-fluency-prompt-architect) works
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
 
-This repository is AI Fluency Prompt Architect, an agent-agnostic prompt-writing skill built on the 4D framework.
+<div align="center">
 
-<a href="https://github.com/Kiran-bioinfo/ai-fluency-prompt-architect"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=Kiran-bioinfo&amp;repo=ai-fluency-prompt-architect&amp;theme=dark&amp;v=1794029725056">
-  <img alt="Architecture diagram of Kiran-bioinfo/ai-fluency-prompt-architect" src="https://www.gitskins.com/api/repo-diagram/image?owner=Kiran-bioinfo&amp;repo=ai-fluency-prompt-architect&amp;theme=light&amp;v=1794029725056">
-</picture></a>
-<!-- /gitskins:architecture -->
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiran-bioinfo&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kiran-bioinfo&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiran-bioinfo&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kiran-bioinfo&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kiran-bioinfo&theme=radical&utcOffset=8">
+
+
+</div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kiran-bioinfo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Kiran-bioinfo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
