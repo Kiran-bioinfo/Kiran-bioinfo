@@ -53,23 +53,17 @@ class ProfileCardsTests(unittest.TestCase):
             for original in ("avivashishta", "avi vashishta", "12.7m", "27.5k", "engineer at dock"):
                 self.assertNotIn(original, text, str(path))
 
-    def test_dna_rotation_and_reduced_motion(self):
+    def test_hero_profile_image_and_reduced_motion(self):
         hero = self.render(cards.hero)
-        frames = hero.findall('.//s:g[@class="dna-frame"]', NS)
-        self.assertEqual(len(frames), 32)
-        self.assertEqual(len({ET.tostring(frame) for frame in frames}), 32)
-        for frame in frames:
-            rows = frame.findall("s:text", NS)
-            self.assertEqual(len(rows), 25)
-            for row in rows:
-                text = "".join(row.itertext())
-                self.assertEqual(len(text), 31)
-                self.assertTrue(set(text) <= set(" @-=ATGC"))
+        image = hero.find(".//s:image", NS)
+        assert image is not None
+        self.assertEqual(image.attrib.get("href"), cards.PROFILE_IMAGE_URL)
+        self.assertEqual(image.attrib.get("preserveAspectRatio"), "xMidYMid slice")
+        self.assertFalse(hero.findall('.//s:g[@class="dna-frame"]', NS))
         style = hero.find("s:style", NS)
         assert style is not None and style.text is not None
         css = style.text
         self.assertIn("prefers-reduced-motion", css)
-        self.assertIn(".dna-frame:first-child{opacity:1!important}", css)
         self.assertNotIn("<script", ET.tostring(hero, encoding="unicode"))
 
     def test_activity_with_zero_contributions(self):

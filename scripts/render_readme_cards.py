@@ -17,7 +17,6 @@ import base64
 import datetime
 import json
 import os
-import math
 from html import escape
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -26,6 +25,7 @@ DATA = os.path.join(ROOT, "data", "contributions.json")
 OUT = os.path.join(ROOT, "cards")
 FONTS = os.path.join(ROOT, "fonts")
 USERNAME = os.environ.get("GH_PROFILE_USER", "Kiran-bioinfo")
+PROFILE_IMAGE_URL = "https://github.com/user-attachments/assets/5a852805-e507-48f7-9af1-6f5e96b5894b"
 
 # ---- brand tokens -----------------------------------------------------------
 PAPER = "#f3f3f1"
@@ -144,49 +144,6 @@ def text_lines(x, y, lines, lh, attrs):
     )
 
 
-# ---- 1 · hero -----------------------------------------------------------------
-def dna_frames():
-    """Project a double helix at successive angles, using only ASCII glyphs."""
-    frames = []
-    for frame in range(32):
-        rows = []
-        phase = frame * math.tau / 32
-        for row in range(25):
-            angle = row * math.tau / 16 + phase
-            a = round(15 + 13 * math.sin(angle))
-            b = 30 - a
-            left, right = sorted((a, b))
-            chars = [" "] * 31
-            for col in range(left + 1, right):
-                chars[col] = "-" if row % 2 else "="
-            if right - left > 5:
-                bases = "AT" if row % 2 else "GC"
-                chars[left + 2], chars[right - 2] = bases
-            chars[a] = chars[b] = "@"
-            line = []
-            for col, char in enumerate(chars):
-                color = TECH if col == a else STUDIO if col == b else MUTED
-                if col in (a, b):
-                    depth = math.cos(angle) if col == a else -math.cos(angle)
-                    opacity = 0.75 + 0.25 * depth
-                    line.append(f'<tspan fill="{color}" opacity="{opacity:.2f}">{char}</tspan>')
-                else:
-                    line.append(char)
-            rows.append(
-                f'<text xml:space="preserve" x="566" y="{102 + row * 10}" '
-                f'font-family="{MONO}" font-size="12" fill="{MUTED}">{"".join(line)}</text>'
-            )
-        frames.append(f'<g class="dna-frame" style="animation-delay:{frame * 0.2:.1f}s">{"".join(rows)}</g>')
-    return "".join(frames)
-
-
-DNA_CSS = """
-@keyframes dnaTurn{0%{opacity:1}3.125%,100%{opacity:0}}
-.dna-frame{opacity:0;animation:dnaTurn 6.4s steps(1,end) infinite}
-@media (prefers-reduced-motion: reduce){.dna-frame{animation:none!important;opacity:0!important}.dna-frame:first-child{opacity:1!important}}
-"""
-
-
 def hero():
     h = 420
     body = f"""
@@ -202,17 +159,16 @@ def hero():
   <text x="48" y="396" font-family="{MONO}" font-size="13" fill="{INK}">github.com/{escape(USERNAME)}</text>
   <text class="nu" x="270" y="396" font-family="{MONO}" font-size="13" fill="{TECH}">&#8599;</text>
 </g>
+<defs><clipPath id="hero-photo-clip"><rect x="526" y="48" width="310" height="324" rx="12"/></clipPath></defs>
 <rect x="526" y="48" width="310" height="324" rx="12" fill="{PAPER_DEEP}"/>
-<text x="550" y="74" font-family="{MONO}" font-size="11" letter-spacing="1" fill="{MUTED}">DNA / DOUBLE HELIX</text>
-<g>{dna_frames()}</g>
-<text x="550" y="356" font-family="{MONO}" font-size="10" fill="{MUTED}">A:T / G:C</text>
+<image class="f" {d(0.55)} x="526" y="48" width="310" height="324" preserveAspectRatio="xMidYMid slice"
+  clip-path="url(#hero-photo-clip)" href="{PROFILE_IMAGE_URL}"/>
+<rect class="f" {d(0.65)} x="526" y="48" width="310" height="324" rx="12" fill="none" stroke="{PAPER}" stroke-width="2"/>
+<text x="550" y="74" font-family="{MONO}" font-size="11" letter-spacing="1" fill="{PAPER}">PROFILE / PORTRAIT</text>
 <circle cx="812" cy="70" r="4" fill="{LEARN}"/>
 """
-    css = DNA_CSS
-    if os.environ.get("STATIC"):
-        css += ".dna-frame{animation:none!important;opacity:0!important}.dna-frame:first-child{opacity:1!important}"
     write("hero.svg", svg(W, h, body, ["serif", "serif-i", "sans", "mono"],
-                          "Kiran Patil. GitHub: Kiran-bioinfo. Rotating ASCII DNA double helix.", extra_css=css))
+                          "Kiran Patil. GitHub: Kiran-bioinfo. Profile portrait on the hero card."))
 
 
 
