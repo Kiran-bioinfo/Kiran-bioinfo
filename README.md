@@ -2,7 +2,7 @@
      .github/workflows/update-profile-art.yml using Kiran-bioinfo's GitHub data.
      Spacing is baked into the SVGs: keep cards in a row on one line with no spaces. -->
 <div align="center">
-<a href="https://github.com/Kiran-bioinfo"><img src="./cards/hero.svg" width="100%" alt="Kiran Patil — Kiran-bioinfo on GitHub, with a rotating ASCII DNA double helix" /></a><br>
+<a href="https://github.com/Kiran-bioinfo"><img src="./cards/hero.svg" width="100%" alt="Kiran Patil — Kiran-bioinfo on GitHub, with a profile portrait hero panel" /></a><br>
 <img src="./cards/heatmap.svg" width="100%" alt="Kiran's GitHub contribution graph in blue, refreshed daily" /><br>
 <img src="./cards/activity.svg" width="100%" alt="GitHub contributions in the last 12 months, by month, with streak and busiest day" /><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-coding-dark.svg" /><img src="./cards/title-coding-light.svg" width="100%" alt="What I'm coding" /></picture><br>
