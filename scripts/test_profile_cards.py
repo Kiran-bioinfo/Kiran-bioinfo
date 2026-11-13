@@ -57,7 +57,7 @@ class ProfileCardsTests(unittest.TestCase):
         hero = self.render(cards.hero)
         image = hero.find(".//s:image", NS)
         assert image is not None
-        self.assertEqual(image.attrib.get("href"), cards.PROFILE_IMAGE_URL)
+        self.assertTrue(image.attrib.get("href", "").startswith("data:image/png;base64,"))
         self.assertEqual(image.attrib.get("preserveAspectRatio"), "xMidYMid slice")
         self.assertFalse(hero.findall('.//s:g[@class="dna-frame"]', NS))
         style = hero.find("s:style", NS)

@@ -25,7 +25,7 @@ DATA = os.path.join(ROOT, "data", "contributions.json")
 OUT = os.path.join(ROOT, "cards")
 FONTS = os.path.join(ROOT, "fonts")
 USERNAME = os.environ.get("GH_PROFILE_USER", "Kiran-bioinfo")
-PROFILE_IMAGE_URL = "https://github.com/user-attachments/assets/5a852805-e507-48f7-9af1-6f5e96b5894b"
+PROFILE_IMAGE_PATH = os.path.join(ROOT, "assets", "profile.png")
 
 # ---- brand tokens -----------------------------------------------------------
 PAPER = "#f3f3f1"
@@ -95,6 +95,14 @@ def font_face(keys):
     return "".join(out)
 
 
+def image_data_uri(path):
+    with open(path, "rb") as f:
+        return "data:image/png;base64," + base64.b64encode(f.read()).decode("ascii")
+
+
+PROFILE_IMAGE_DATA_URI = image_data_uri(PROFILE_IMAGE_PATH)
+
+
 GAP = 12          # gap between cards, baked into the SVGs (GitHub's own spacing is uneven)
 BOTTOM = 12       # bottom padding per row, matching GAP
 COL = W / 3       # each card in a row of three is exactly a third of the column
@@ -162,7 +170,7 @@ def hero():
 <defs><clipPath id="hero-photo-clip"><rect x="526" y="48" width="310" height="324" rx="12"/></clipPath></defs>
 <rect x="526" y="48" width="310" height="324" rx="12" fill="{PAPER_DEEP}"/>
 <image class="f" {d(0.55)} x="526" y="48" width="310" height="324" preserveAspectRatio="xMidYMid slice"
-  clip-path="url(#hero-photo-clip)" href="{PROFILE_IMAGE_URL}"/>
+  clip-path="url(#hero-photo-clip)" href="{PROFILE_IMAGE_DATA_URI}"/>
 <rect class="f" {d(0.65)} x="526" y="48" width="310" height="324" rx="12" fill="none" stroke="{PAPER}" stroke-width="2"/>
 <text x="550" y="74" font-family="{MONO}" font-size="11" letter-spacing="1" fill="{PAPER}">PROFILE / PORTRAIT</text>
 <circle cx="812" cy="70" r="4" fill="{LEARN}"/>
